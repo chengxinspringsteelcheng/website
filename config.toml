@@ -2,3 +2,14 @@ baseURL = "https://chengxinspringsteel.com/"
 languageCode = "en-us"
 title = "Cheng Xin Spring Steel"
 theme = "hugograyscale"
+googleAnalytics = "UA-174201007-1"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Reliable Spring Steel for Africa"
+
+[Author]
+    name = "Cheng Xin Spring Steel"
+    email = "trading@chengxinspringsteel.com"
+
