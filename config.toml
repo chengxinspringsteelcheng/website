@@ -51,7 +51,7 @@ link = "plugins/google-map/gmap.js"
 ############################### widgets #################################
 
 [params.widgets]
-sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+sidebar = []
 
 
 #################### default parameters ################################
@@ -65,7 +65,7 @@ mobile = "+27768341759"
 email = "trading@chengxinspringsteel.com"
 location = "60 Atlas Rd, Anderbolt, Boksburg, South-Africa"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/mnqgyaov" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "UA-174201007-1" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
