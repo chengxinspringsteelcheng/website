@@ -26,15 +26,15 @@ portfolio:
   enable : true
   bg_image : "images/featue-bg_rev.jpg"
   title : "WE BELIEVE IN GREAT IDEAS"
-  content : " We have a special relationship with our mill suppliers as well as distribution within the Republic of South Africa. We supply our South African operations with consignment orders that are immediately available to manufacturers within the Sub-Saharan region."
+  content : "We have a special relationship with our mill suppliers as well as distribution within the Republic of South Africa. We supply our South African operations with consignment orders that are immediately available to manufacturers within the Sub-Saharan region."
 
 
 
 
   button:
     enable : true
-    label : "View Works"
-    link : "project"
+    label : "Advanced Steel"
+    link : "spring steel"
 
 
 ############################# Service ############################
