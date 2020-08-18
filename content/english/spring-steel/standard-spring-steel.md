@@ -43,4 +43,7 @@ deliveries. So please plan for this.
 ### NiCr 15 Fe 7 TiAl (Inconel X 750) (2.4669) and NiCr19 NbMo (Inconel 718) (2.4668):
 These nickel-chrome alloys are practically cobalt-free, and are therefore used in reactor and furnace applications. The hardening process is diff cult and expensive. NIMONIC and INCONEL are trade names.
 
+{{<table "steel" >}}
+
 For other options on heat resistant material or other corrosive resistant metals please contact us with your specific needs.
+
