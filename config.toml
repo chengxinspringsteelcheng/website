@@ -24,8 +24,8 @@ unsafe = true
 #################################### Plugins ##############################
 
 # CSS Plugins
-#[[params.plugins.css]]
-#link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/Ionicons/css/ionicons.min.css"
 [[params.plugins.css]]
