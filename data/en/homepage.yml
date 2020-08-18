@@ -47,7 +47,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg_rev.jpg"
+  bg_image : "images/slider-bg_rev.jpg"
   title : "Reliable Steel Supply"
   content : "You can converse with our engineers in plain English with no confusion and leave the sourcing and supply of your specific material to us."
   button:
