@@ -18,7 +18,7 @@ about:
   content : "We are an international team of Engineers servicing the needs of businesses that are struggling to secure quality Spring Steel and other special alloy metals for their production needs.
 Our mission is to make sure that other manufacturing companies do not go through the struggles we ourselves once faced in securing quality Spring Steel and special alloy material for our production needs."
 
-  image : "images/wrapper-img_rev.png"
+  image : "images/wrapper-img_rev.jpg"
 
 
 ######################### Portfolio ###############################
@@ -35,7 +35,7 @@ portfolio:
   button:
     enable : true
     label : "Advanced Steel"
-    link : "spring steel"
+    link : "spring-steel"
 
 
 ############################# Service ############################
