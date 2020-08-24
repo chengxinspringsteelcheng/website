@@ -14,16 +14,16 @@ banner:
 about:
   enable : true
   title : "About Us"
-  description : "The finest steel has to go through the hottest fire"
+  description : "International Quality, Local Support"
   content : "We are an international team of Engineers servicing the needs of businesses that are struggling to secure quality Spring Steel and other special alloy metals for their production needs.
-Our mission is to make sure that other manufacturing companies do not go through the struggles we ourselves once faced in securing quality Spring Steel and special alloy material for our production needs."
+Our mission is to make sure that other manufacturing companies do not go through the struggles we ourselves once faced in securing quality Spring Steel and special alloy material for our production needs. We have a special relationship with our mill suppliers as well as distribution within the Republic of South Africa. We supply our South African operations with consignment orders that are immediately available to manufacturers within the Sub-Saharan region."
 
   image : "images/wrapper-img_rev.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
-  enable : true
+  enable : false
   bg_image : "images/featue-bg_rev.jpg"
   title : "WE BELIEVE IN GREAT IDEAS"
   description : "international quality, local support"
